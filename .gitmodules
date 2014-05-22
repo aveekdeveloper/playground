@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/aveekdeveloper/api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/aveekdeveloper/app.git
